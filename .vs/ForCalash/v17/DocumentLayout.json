@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdur\\Documents\\PP\\ForCalash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED13439F-6B0D-42C6-AF61-A18F322A309F}|ForCalash\\ForCalash.csproj|c:\\users\\abdur\\documents\\pp\\forcalash\\forcalash\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED13439F-6B0D-42C6-AF61-A18F322A309F}|ForCalash\\ForCalash.csproj|solutionrelative:forcalash\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED13439F-6B0D-42C6-AF61-A18F322A309F}|ForCalash\\ForCalash.csproj|C:\\Users\\abdur\\Documents\\PP\\ForCalash\\forcalash\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED13439F-6B0D-42C6-AF61-A18F322A309F}|ForCalash\\ForCalash.csproj|solutionrelative:forcalash\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED13439F-6B0D-42C6-AF61-A18F322A309F}|ForCalash\\ForCalash.csproj|C:\\Users\\abdur\\Documents\\PP\\ForCalash\\forcalash\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED13439F-6B0D-42C6-AF61-A18F322A309F}|ForCalash\\ForCalash.csproj|solutionrelative:forcalash\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED13439F-6B0D-42C6-AF61-A18F322A309F}|ForCalash\\ForCalash.csproj|C:\\Users\\abdur\\Documents\\PP\\ForCalash\\forcalash\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED13439F-6B0D-42C6-AF61-A18F322A309F}|ForCalash\\ForCalash.csproj|solutionrelative:forcalash\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED13439F-6B0D-42C6-AF61-A18F322A309F}|ForCalash\\ForCalash.csproj|C:\\Users\\abdur\\Documents\\PP\\ForCalash\\forcalash\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED13439F-6B0D-42C6-AF61-A18F322A309F}|ForCalash\\ForCalash.csproj|solutionrelative:forcalash\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED13439F-6B0D-42C6-AF61-A18F322A309F}|ForCalash\\ForCalash.csproj|C:\\Users\\abdur\\Documents\\PP\\ForCalash\\forcalash\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{ED13439F-6B0D-42C6-AF61-A18F322A309F}|ForCalash\\ForCalash.csproj|solutionrelative:forcalash\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED13439F-6B0D-42C6-AF61-A18F322A309F}|ForCalash\\ForCalash.csproj|C:\\Users\\abdur\\Documents\\PP\\ForCalash\\forcalash\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED13439F-6B0D-42C6-AF61-A18F322A309F}|ForCalash\\ForCalash.csproj|solutionrelative:forcalash\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED13439F-6B0D-42C6-AF61-A18F322A309F}|ForCalash\\ForCalash.csproj|C:\\Users\\abdur\\Documents\\PP\\ForCalash\\forcalash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED13439F-6B0D-42C6-AF61-A18F322A309F}|ForCalash\\ForCalash.csproj|solutionrelative:forcalash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\abdur\\Documents\\PP\\ForCalash\\ForCalash\\Model1.edmx",
+              "RelativeDocumentMoniker": "ForCalash\\Model1.edmx",
+              "ToolTip": "C:\\Users\\abdur\\Documents\\PP\\ForCalash\\ForCalash\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "ForCalash\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-03-13T17:26:53.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignIn.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\abdur\\Documents\\PP\\ForCalash\\ForCalash\\SignIn.cs",
+              "RelativeDocumentMoniker": "ForCalash\\SignIn.cs",
+              "ToolTip": "C:\\Users\\abdur\\Documents\\PP\\ForCalash\\ForCalash\\SignIn.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ForCalash\\SignIn.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:58:51.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\abdur\\Documents\\PP\\ForCalash\\ForCalash\\SignUp.cs",
+              "RelativeDocumentMoniker": "ForCalash\\SignUp.cs",
+              "ToolTip": "C:\\Users\\abdur\\Documents\\PP\\ForCalash\\ForCalash\\SignUp.cs",
+              "RelativeToolTip": "ForCalash\\SignUp.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:46:11.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUp.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\abdur\\Documents\\PP\\ForCalash\\ForCalash\\SignUp.cs",
+              "RelativeDocumentMoniker": "ForCalash\\SignUp.cs",
+              "ToolTip": "C:\\Users\\abdur\\Documents\\PP\\ForCalash\\ForCalash\\SignUp.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ForCalash\\SignUp.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:46:10.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\abdur\\Documents\\PP\\ForCalash\\ForCalash\\MainForm.cs",
+              "RelativeDocumentMoniker": "ForCalash\\MainForm.cs",
+              "ToolTip": "C:\\Users\\abdur\\Documents\\PP\\ForCalash\\ForCalash\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ForCalash\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:40:06.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\abdur\\Documents\\PP\\ForCalash\\ForCalash\\MainForm.cs",
+              "RelativeDocumentMoniker": "ForCalash\\MainForm.cs",
+              "ToolTip": "C:\\Users\\abdur\\Documents\\PP\\ForCalash\\ForCalash\\MainForm.cs",
+              "RelativeToolTip": "ForCalash\\MainForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:21:29.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignIn.cs",
+              "DocumentMoniker": "C:\\Users\\abdur\\Documents\\PP\\ForCalash\\ForCalash\\SignIn.cs",
+              "RelativeDocumentMoniker": "ForCalash\\SignIn.cs",
+              "ToolTip": "C:\\Users\\abdur\\Documents\\PP\\ForCalash\\ForCalash\\SignIn.cs",
+              "RelativeToolTip": "ForCalash\\SignIn.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:34:46.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdur\\Documents\\PP\\ForCalash\\ForCalash\\Program.cs",
+              "RelativeDocumentMoniker": "ForCalash\\Program.cs",
+              "ToolTip": "C:\\Users\\abdur\\Documents\\PP\\ForCalash\\ForCalash\\Program.cs",
+              "RelativeToolTip": "ForCalash\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:40:57.538Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
