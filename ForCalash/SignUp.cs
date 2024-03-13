@@ -39,7 +39,7 @@ namespace ForCalash
             {
                 using (var BD = new UserBDEntities())
                 {
-                    if (BD.User.FirstOrDefault(u => u.user_name == textBox1.Text) != null) MessageBox.Show("Такой логин уже есть! Пожалуйста повторите попытку!", "Ошибка!",
+                    if (BD.User.FirstOrDefault(u => u.user_name == textBox1.Text) != null) MessageBox.Show("Такой логин уже есть! Введите другой логин!", "Ошибка!",
                         MessageBoxButtons.OK,
                         MessageBoxIcon.Information,
                         MessageBoxDefaultButton.Button1);
@@ -81,6 +81,16 @@ namespace ForCalash
             {
                 textBox2.PasswordChar = '*';
             }
+        }
+
+        private void label4_MouseEnter(object sender, EventArgs e)
+        {
+            label4.ForeColor = Color.Black;
+        }
+
+        private void label4_MouseLeave(object sender, EventArgs e)
+        {
+            label4.ForeColor = Color.DimGray;
         }
     }
 }

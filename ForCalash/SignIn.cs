@@ -66,5 +66,20 @@ namespace ForCalash
             signUp.ShowDialog();
             Application.Exit();
         }
+
+        private void SignIn_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_MouseEnter(object sender, EventArgs e)
+        {
+            label4.ForeColor = Color.Black;
+        }
+
+        private void label4_MouseLeave(object sender, EventArgs e)
+        {
+            label4.ForeColor = Color.DimGray;
+        }
     }
 }
